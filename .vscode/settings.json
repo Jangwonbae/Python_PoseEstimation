@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./git/PoseEstimation_Scoring-Your-Video"
+    ]
+}
